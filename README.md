@@ -7,8 +7,8 @@ Página empresarial estática para **Cristian Poma / Me Toca**.
 - `index.html` — estructura y contenido.
 - `style.css` — diseño responsive y paleta de colores.
 - `script.js` — menú móvil, animaciones y año automático.
-- `assets/MeToca.png` — logotipo horizontal.
-- `assets/MeTocaISOTIPO.png` — isotipo usado como favicon.
+- `assets/logo-main.png` — logotipo horizontal.
+- `assets/logo-iso.png` — isotipo usado como favicon.
 
 ## Antes de publicar
 
